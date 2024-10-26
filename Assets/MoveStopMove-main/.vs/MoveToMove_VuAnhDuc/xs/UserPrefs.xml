@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{7778A293-151C-DA55-B155-398B87398ED2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Character.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="7" Column="5" />
+      <File FileName="Assets/Scripts/Character.cs" Line="30" Column="16" />
+      <File FileName="../BridgeRace_VuAnhDuc/Assets/_Game/Scripts/Character.cs" Line="63" Column="37" />
+      <File FileName="../StackMaker_VuAnhDuc/Assets/Script/CameraFollow.cs" Line="30" Column="45" />
+      <File FileName="Assets/Scripts/CameraFollow.cs" Line="6" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="358f0aa1-2ea8-4f1c-b3ea-c883ae54adf9" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
